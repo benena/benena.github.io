@@ -1,0 +1,65 @@
+body {
+  background-color: #0066FF
+;
+}
+
+h1 {
+
+    font-family: Georgia;
+  font-size: 40px;
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  
+  color: white;
+  text-align: center;
+}
+
+h3 {
+    
+
+  
+  color: white;
+}
+
+h4 {
+    
+
+  color: white;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+p {
+    
+
+  color: white;  
+  font-size: 13px;
+  font-style: arial;
+}
+
+ul {
+    
+
+  color: white;
+}
+
+ol {
+    
+
+  color: white;
+}
+
+li {
+    
+
+  font-family: Arial;
+}
+
+div {
+    text-align: center;
+}
+
